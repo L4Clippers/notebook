@@ -2,7 +2,7 @@
 （実行結果について，PDFでの書き出しに失敗したため，HTMLに書き出しを行っています．）
 
 #### 問１−５について，「20220414_kadai2b_q1-5_v4.ipynb」のファイルに答案を作成しました．
-- 同上について，HTMLに結果を出力しています．
+- 同上について，[HTML](https://htmlpreview.github.io/?https://github.com/L4Clippers/notebook/blob/main/20220414_kadai2b_q1-5_v4.html)に結果を出力しています．
 
 #### 問６−１０について，「20220415_kadai2b_q6-10_v6.ipynb」のファイルに答案を作成しました．
 - 同上について，HTMLに結果を出力しています．
