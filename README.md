@@ -1,6 +1,6 @@
 ### [2b] OPENCVスタートアップ課題 + フレームワークを使わない深層学習課題
-（実行結果について，PDFでの書き出しに失敗したため，HTMLに書き出しを行っています．
-　repository上のhtmlファイルをクリックしても見れないため，下記リンクからご参照頂けますと幸いです．）
+- 実行結果について，PDFでの書き出しに失敗したため，HTMLに書き出しを行っています．
+- repository上のhtmlファイルをクリックしても見れないため，下記リンクからご参照頂けますと幸いです．
 
 #### 問１−５について，「20220414_kadai2b_q1-5_v4.ipynb」のファイルに答案を作成しました．
 - 同上について，[HTML](https://htmlpreview.github.io/?https://github.com/L4Clippers/notebook/blob/main/20220414_kadai2b_q1-5_v4.html)に結果を出力しています．
